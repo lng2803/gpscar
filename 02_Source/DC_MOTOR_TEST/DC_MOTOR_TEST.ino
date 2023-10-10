@@ -34,7 +34,6 @@ void loop(){
   delay(1000);
   stop();
   delay(1000);
-
 }
 
 void diThang(int SpeedLeft, int SpeedRight)
